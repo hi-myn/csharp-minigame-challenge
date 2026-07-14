@@ -1,8 +1,9 @@
-# 🎮 C# Mini-Game Challenge — Microsoft C# Certification
+# 🎮 C# Mini-Game Challenge — Microsoft & freeCodeCamp C# Certification
+> **Challenge Project** · Microsoft Learn × freeCodeCamp · C# Certification Path
 
-> **Challenge Project** · Microsoft Learn · C# Certification Path
+This project is part of a **challenge module** in the Foundational C# certification offered by Microsoft in partnership with freeCodeCamp. The course provides a starter file with a working game skeleton, along with a specification for each challenge — no step-by-step walkthrough. The task is to independently design and implement the missing functionality to meet each spec.
 
-This is a **challenge project** — no step-by-step guidance, no hand-holding. Just a specification and the task of building a working solution from scratch. The goal: a fully playable mini-game built entirely in C# using console I/O and structured method design.
+All gameplay logic described below — termination handling, food consumption detection, player state changes, and movement speed modification — was implemented by me as part of these challenges, building on top of the provided starter code.
 
 ---
 
@@ -56,7 +57,7 @@ dotnet run
 
 ## 🏅 Course Context
 
-This project is part of the **Foundational C# with Microsoft** certification available on Microsoft Learn. The challenge module tests the ability to independently design and implement features from a functional specification — no walkthroughs provided.
+This project is part of the **Foundational C# with Microsoft** certification, offered on Microsoft Learn in partnership with freeCodeCamp. The challenge modules test the ability to independently design and implement features from a functional specification, starting from a provided base project — no walkthroughs included.
 
 🔗 [Microsoft Learn — Foundational C# Certification](https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07)
 
@@ -64,4 +65,4 @@ This project is part of the **Foundational C# with Microsoft** certification ava
 
 ## 📄 License
 
-This project is for educational purposes as part of a Microsoft Learn challenge.
+This project is for educational purposes as part of a Microsoft Learn & freeCodeCamp challenge.
